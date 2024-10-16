@@ -1,4 +1,4 @@
-## Hi, I'm Roshel Perera 👋
+# DRAPerera-CV
 
 * 💞️ I have a great passion for business analytics, data analytics & visualization and Project Management.
 * 💻 I am currently reading for a Masters in Business Analytics, specializing in AI from La Trobe University, Australia.
