@@ -48,3 +48,4 @@ interpersonal skills
 * Critical & Analytical Thinking
 * Creativity & Innovation
 * Motivated & Dedicated
+
